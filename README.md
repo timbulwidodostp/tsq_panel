@@ -1,6 +1,8 @@
 # tsq_panel
 Sequential Threshold-Spatial-Quantile Panel Estimation Use tsq_panel (tsqr) With (In) R Software
 
+https://www.youtube.com/watch?v=ZnyX5LhkYg0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
